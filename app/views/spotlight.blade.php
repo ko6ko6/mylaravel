@@ -30,7 +30,7 @@
   <p><em>Thataway</em> - acrylic</p>
   </div>
   <p class="statement">
-Gerald Chow will graduate from Roux Academy this spring with a BFA and a painting concentration. He took his longtime interest in graffiti and street art and has translated it to the canvas in cartoonish, graphical pictures. Chow’s work is becoming increasingly more recognized, winning Excellence Awards in both the 2010 and 2011 Fine Arts Shows at RAA. After receiving his degree, Chow is moving to San Francisco to join the graphic design team PURCHASE as a junior art designer.
+Gerald Chow will graduate from Roux Academy this spring with a BFA and a painting concentration. He took his longtime interest in graffiti and street art and has translated it to the canvas in cartoonish, graphical pictures. Chow’s work is becoming increasingly more recognized, winning Excellence Awards in both the 2010 and 2011 Fine Arts Shows at RAA. After receiving his degree, Chow is moving to San Francisco to join the graphic design team PURCHASE as a junior and senior art designer.
   </p>
     <div class="artwork cb">
   <img src="{{ asset('_images/feature2.jpg') }}" width="296" height="381" alt="that tower eats people">
